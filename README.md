@@ -2,13 +2,15 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center"></h3>
 
-<!---Пример кода-->
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+IT+Science+student)
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=tekater)](https://github.com/tekater/github-readme-stats)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tekater&layout=compact)
+[![tekater's GitHub stats](https://github-readme-stats.vercel.app/api?username=tekater)](https://github.com/tekater/github-readme-stats)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tekater&layout=compact)
 
 
 
-[![activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=tekater&bg_color=ffffff&color=708090&line=94292e&point=24292e&area=true&hide_border=true)](https://github.com/tekater/github-readme-activity-graph)
+[![tekater's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=tekater&bg_color=ffffff&color=708090&line=94292e&point=24292e&area=true&hide_border=true)](https://github.com/tekater/github-readme-activity-graph) 
+ 
+![Jokes Card](https://readme-jokes.vercel.app/api) 
 
 ![](https://komarev.com/ghpvc/?username=tekater)
+
